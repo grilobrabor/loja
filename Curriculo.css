@@ -1,0 +1,41 @@
+#pai{
+    display: flex;
+    border-top: solid 20px;
+    border-bottom: solid 20px;
+  
+}
+
+#left{
+    background-color: #d9d9d9;
+    width: 600px;
+    height: 900px;
+    
+
+}
+
+p{
+    font-family: "Ruda", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+}
+
+#texto_grande{
+    font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+#toma{
+    height: 300px;
+    width: 300px;
+}
+
+#right{
+    background-color: white;
+    width: 800px;
+    height: 900px;
+}
